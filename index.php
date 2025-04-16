@@ -18,6 +18,7 @@
     <form action="./result.php" method="post" target="results">
         <label for="Radius">Radius</label>
         <input type="text" id="Radius" placeholder="Enter Radius" name="Radius">
+        <input type="submit" value="Calculate Volume">
 		</form>
 
 			<iframe id="results" name="results">			
